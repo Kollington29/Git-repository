@@ -1,2 +1,5 @@
 Second
 My name is Goodness and Mercy.
+I am a Software Developer.
+I love Python and Java
+
